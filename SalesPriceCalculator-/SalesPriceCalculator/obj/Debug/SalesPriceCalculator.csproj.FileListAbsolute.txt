@@ -1,0 +1,10 @@
+C:\Users\Halil\source\repos\SalesPriceCalculator\SalesPriceCalculator\bin\Debug\SalesPriceCalculator.exe.config
+C:\Users\Halil\source\repos\SalesPriceCalculator\SalesPriceCalculator\bin\Debug\SalesPriceCalculator.exe
+C:\Users\Halil\source\repos\SalesPriceCalculator\SalesPriceCalculator\bin\Debug\SalesPriceCalculator.pdb
+C:\Users\Halil\source\repos\SalesPriceCalculator\SalesPriceCalculator\obj\Debug\SalesPriceCalculator.csprojAssemblyReference.cache
+C:\Users\Halil\source\repos\SalesPriceCalculator\SalesPriceCalculator\obj\Debug\SalesPriceCalculator.FormForecast.resources
+C:\Users\Halil\source\repos\SalesPriceCalculator\SalesPriceCalculator\obj\Debug\SalesPriceCalculator.Properties.Resources.resources
+C:\Users\Halil\source\repos\SalesPriceCalculator\SalesPriceCalculator\obj\Debug\SalesPriceCalculator.csproj.GenerateResource.cache
+C:\Users\Halil\source\repos\SalesPriceCalculator\SalesPriceCalculator\obj\Debug\SalesPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Halil\source\repos\SalesPriceCalculator\SalesPriceCalculator\obj\Debug\SalesPriceCalculator.exe
+C:\Users\Halil\source\repos\SalesPriceCalculator\SalesPriceCalculator\obj\Debug\SalesPriceCalculator.pdb
